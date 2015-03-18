@@ -1,5 +1,7 @@
 ##Setting up an Ubuntu 14.04 Server in VirtualBox.
 
+##Note: These instructions, and associated scripts, are a work in progress. They are meant to get Ubuntu up and running quickly. There is no guarantees regarding the correctness of the configurations, nor their optimality.
+
 The end result of these instructions will be a base VirtualBox Ubuntu 14.04 Server virtual machine that can act as a template for building clusters on VirtualBox. 
 
 ###Instructions
